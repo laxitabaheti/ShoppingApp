@@ -1,0 +1,10 @@
+.background {
+  margin: 0;
+  padding: 0;
+  z-index: 0;
+  /* position: fixed; */
+}
+
+.background img {
+  width: 104.5%;
+}

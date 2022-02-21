@@ -1,0 +1,22 @@
+.navbar {
+  display: flex;
+  background-color: rgb(74, 22, 95);
+  width: 100%;
+  padding: 0.5rem 0.5rem;
+  color: cornsilk;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.app_name {
+  font-weight: bold;
+}
+
+.navbar_list ul {
+  list-style-type: none;
+  display: flex;
+}
+
+.navbar_list ul li {
+  margin: 0 0.5rem;
+}

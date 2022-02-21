@@ -1,0 +1,27 @@
+.Card {
+  z-index: 100;
+  padding: 0.5rem;
+}
+.Card ul {
+  list-style-type: none;
+}
+.Card ul li {
+  display: flex;
+  margin: 2rem 1rem;
+  align-items: center;
+  justify-content: space-around;
+}
+.item_Name {
+}
+.item_Price {
+  margin: 0 2rem;
+}
+
+.Card ul li button {
+  margin-right: 1rem;
+  width: 2rem;
+  font-weight: bold;
+  border: none;
+  padding: 0.5rem;
+  border-radius: 15px;
+}
